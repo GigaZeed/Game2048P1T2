@@ -1,0 +1,10 @@
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\bin\Debug\Wonder2048Tile.exe.config
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\bin\Debug\Wonder2048Tile.exe
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\bin\Debug\Wonder2048Tile.pdb
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.csprojAssemblyReference.cache
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.Game2048.resources
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.Properties.Resources.resources
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.csproj.GenerateResource.cache
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.csproj.CoreCompileInputs.cache
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.exe
+C:\6304022616136\Sec2_Group3_Wonder2048Tile\Wonder2048Tile\obj\Debug\Wonder2048Tile.pdb
